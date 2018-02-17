@@ -1,0 +1,53 @@
+/* add your CSS here */
+body{
+	margin:0px;
+	padding:0px;
+	font-family: "Times New Roman", Times, serif;
+	background-color:#f4f4f4;
+}
+.container{
+	
+	margin:20px auto;
+	width:300px;
+	height:auto;
+	background-color:#ffff;
+	box-shadow: 5px 5px 5px #8e8e8e;
+	padding:10px;
+	border:1px solid silver;
+	
+}
+
+
+
+#picture{
+	width:300px;
+	height:200px;
+	box-shadow: 2px 2px 2px #8e8e8e;
+	margin-bottom:10px;
+	
+	
+}
+.interesting-fact{
+	width:290px;
+	border:1px solid silver;
+	padding-left:10px;
+	border-radius:5px;
+	
+}
+.doves{
+	font-style:italic;
+	
+}
+
+
+
+
+ul{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.list{
+	
+	font-weight:bold;
+}
